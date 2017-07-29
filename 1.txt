@@ -1,0 +1,926 @@
+    1  sudo mv '/home/artem/Downloads/android-studio' 
+    2  cd /usr/local
+    3  cd
+    4  ls
+    5  cd /usr/local
+    6  ls
+    7  android
+    8  export ANDROID_HOME="/home/artem/Android
+    9  export ANDROID_HOME="/home/artem/Android/Sdk"
+   10  exit
+   11  cd home
+   12  cd /Home
+   13  cd /home
+   14  ls
+   15  cd artem
+   16  ls
+   17  cd /home/artem/Android
+   18  ls
+   19  cd /home/artem/Android/sdk
+   20  cd /home/artem/Android/Sdk
+   21  android
+   22  /home/artem/Android
+   23  cd /usr/local
+   24  ls
+   25  cd Android-studio
+   26  ls
+   27  cd andoid-studio
+   28  cd android-studio
+   29  ls
+   30  cd /Home/artem
+   31  cd /Home
+   32  cd Home
+   33  cd home
+   34  ls
+   35  cd /HOme
+   36  cd /Home
+   37  ..
+   38  ../
+   39  adb
+   40  android
+   41  cd Desktop
+   42  ;s
+   43  ls
+   44  cd aps
+   45  ls
+   46  cd myApp
+   47  cordova build -- release android
+   48  sudo cordova build -- release android
+   49  adb
+   50  android
+   51  cd /home
+   52  ls
+   53  cd /home/artem/Andoird
+   54  cd /home/artem/Andoid
+   55  cd /home/artem/Android
+   56  export ANDROID_HOME=/home/artem/Android
+   57  android
+   58  export PATH=/home/artem/Android/platform-tools
+   59  andoird
+   60  android
+   61  adb
+   62  ADB
+   63  adb
+   64  android
+   65  cd Desktop
+   66  mkdir aps
+   67  cd aps
+   68  ls
+   69  sudo ionic start --v2 myApp tabs
+   70  cd myApp
+   71  ionic serve
+   72  sudo ionic serve
+   73  e
+   74  https://developer.android.com/studio/install.html
+   75  sudo ionic emulate ios
+   76  sudo ionic run android
+   77  sudo cordova plugin rm cordova-plugin-console
+   78  sudo cordova build --release android
+   79  sudo cordova prepare android
+   80  sudo cordova platform add android
+   81  sudo cordova build --release android
+   82  sudo cordova plugin rm cordova-plugin-console
+   83  sudo cordova build --release android
+   84  adb
+   85  sudo cordova build --release android
+   86  sudo mv '/home/artem/Downloads/android-studio' /usr/local/
+   87  cd usr/local/android-studio
+   88  cd /usr/local
+   89  ls
+   90  cd androd-studio/bin
+   91  cd android-studio/bin
+   92  ./studio.sh
+   93  android
+   94  adb
+   95  echo $ANDOID_HOME
+   96  echo 
+   97  echo $ANDROID_HOME
+   98  WHICH ANROID
+   99  WHICH ANDROID
+  100  SUDO APT-GET WHICH
+  101  sudo apt-get which
+  102  which android
+  103  android
+  104  echo $path
+  105  echo $PATH
+  106  java
+  107  sudo apt-get update
+  108  java
+  109  java -version
+  110  udo apt-get install default-jre
+  111  sudo apt-get install default-jre
+  112  sudo apt-get install default-jdk
+  113  sudo visudo
+  114  cd /etc/profile
+  115  cd /etc
+  116  ls
+  117  cd profile
+  118  vi profile
+  119  gksudo gedit /etc/environment
+  120  sudo gedit /etc/environment
+  121  cd Dektop
+  122  cd Desktop
+  123  ls
+  124  cd aps
+  125  ls
+  126  cd myApp
+  127  ls
+  128  sudo cordova build --release android
+  129  sudo npm install -g cordov
+  130  exit
+  131  android
+  132  dev
+  133  adb
+  134  android
+  135  adb
+  136  vi /etc/profile
+  137  android
+  138  cd Desktop/app
+  139  cd Desktop
+  140  ls
+  141  cd aps
+  142  ls
+  143  cd myApp
+  144  ls
+  145  sudo cordova build --release android
+  146  android
+  147  sudo android
+  148  mkdir test
+  149  sudo mkdir test
+  150  $ sudo add-apt-repository ppa:notepadqq-team/notepadqq
+  151  sudo apt-get install notepadqq
+  152  sudo apt-get update
+  153  sudo add-apt-repository ppa:webupd8team/sublime-text-2
+  154  sudo apt-get update
+  155  sudo apt-get install sublime-text
+  156  cd Desktop
+  157  cd new
+  158  ls
+  159  cd myApp
+  160  ls
+  161  sudo cordova build --release android
+  162  ls
+  163  cordova platform add android
+  164  sudo cordova platform add android
+  165  sudo cordova build --release android
+  166  sudo ionic platform add android
+  167  sudo ionic platform update  android
+  168  cd platforms/android
+  169  ls
+  170  sudo ionic build android --release
+  171  ../
+  172  cd ..
+  173  keytool -genkey -v -keystore mostAwesome 
+  174  keytool -genkey -v -keystore mostAwesomeKey.keystore -alias alias_name -keyalg RSA -keysize 2048 -validaty 10000 
+  175  keytool -genkey -v -keystore mostAwesomeKey.keystore -alias alias_name -keyalg RSA -keysize 2048 -validaty 10000
+  176  sudo keytool -genkey -v -keystore mostAwesomeKeyEver.keystore -alias alias_name -keyalg RSA -keysize 2048 -validaty 10000 
+  177  keytool
+  178  keytool -genkey -v -keystore mostAwesomeKeyEver.keystore -alias alias_name -keyalg RCA -keysize 2048 -validity 10000
+  179  keytool -genkey -v -keystore my-release-key.keystore -alias alias_name -keyalg RSA -keysize 2048 -validity 10000
+  180  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore HelloWorld-release-unsigned.apk alias_name
+  181  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore anroid-release-unsigner.apk alias_name
+  182  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore android-release-unsigner.apk alias_name
+  183  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore android-release-unsigned.apk alias_name
+  184  history
+  185  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore android-release-unsigned.apk alias_name
+  186  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore /home/artem/Desktop/new/myApp/platforms/android/build/outputs/apk/android-release-unsigned.apk alias_name
+  187  sudo jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -
+  188  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -
+  189  my-release-key.keystore /home/artem/Desktop/new/myApp/platforms/android/build/outputs/apk/ alias_name
+  190  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -
+  191  my-release-key.keystore /home/artem/Desktop/new/myApp/platforms/android/build/outputs/apk/android-release-unsigned.apk alias_name
+  192  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -
+  193  my-release-key.keystore /home/artem/Desktop/new/myApp/platforms/android/build/outputs/apk/android-release-unsigned.apk alias_name
+  194  keytool -genkey -v -keystore appname.keystore -alias appnamekey -keyalg RSA -keysize 2048 -validity 10000
+  195  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore test.keystore android-release-unsigned.apk test
+  196  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore test.keystore /home/artem/Desktop/new/myApp/platforms/android/build/outputs/apk/android-release-unsigned.apk test
+  197  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore /home/artem/Desktop/aps/myApp/platforms/android/build/outputs/android-release-unsigned.apk testkey
+  198  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore /home/artem/Desktop/aps/myApp/platforms/android/build/outputs/android-release-unsigned.apk test
+  199  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore /home/artem/Desktop/aps/myApp/platforms/android/build/outputs/android-release-unsigned.apk testkey111
+  200  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore /home/artem/Desktop/aps/myApp/platforms/android/build/outputs/android-release-unsigned.apk testkeyaps
+  201  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore /home/artem/Desktop/aps/myApp/platforms/android/build/outputs/android-release-unsigned.apk TESTKEY
+  202  keytool -genkey -v -keystore appname.keystore -alias appnamekey -keyalg RSA -keysize 2048 -validity 10000
+  203  keytool -genkey -v -keystore test.keystore -alias testkey -keyalg RSA -keysize 2048 -validity 10000
+  204  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore /home/artem/Desktop/aps/myApp/platforms/android/build/outputs/android-release-unsigned.apk testkey
+  205  cd platforms/android
+  206  keytool -genkey -v -keystore YourApp.keystore -alias YourApp -keyalg RSA -keysize 2048 -validity 10000
+  207  sudo keytool -genkey -v -keystore YourApp.keystore -alias YourApp -keyalg RSA -keysize 2048 -validity 10000
+  208  key.store=YourApp.keystore
+  209  sudo key.store=YourApp.keystore
+  210  touch ant.properties
+  211  sudo touch ant.properties
+  212  sudo nano touch ant.properties
+  213  key.store.password=5176550471
+  214  key.store.password
+  215  touch secure.properties
+  216  sudo touch secure.properties
+  217  sudo nano secure.properties
+  218  cd..
+  219  cd
+  220  cd <property file="secure.properties" />
+  221  cd Desktop/new/myApp/platforms/android
+  222  ls
+  223  cd ..
+  224  sudo ionic build android --release
+  225  sudo ionic browser add crosswalk
+  226  cd platforms/android/
+  227  vi release-signing.properties
+  228  cd Desktop
+  229  ls
+  230  cd new
+  231  cd myAos
+  232  cd myAps
+  233  ls
+  234  cd myApp
+  235  cd platforms/android/
+  236  vi release-signing.properties
+  237  sudo apt-get install openjdk-7-jdk
+  238  android
+  239  andoid -v
+  240  android -v
+  241  $JAVA_HOME
+  242  JAVA_HOME
+  243  history
+  244  ./studio.sh
+  245  echo $ANDOID_HOME
+  246  which android
+  247  java -version
+  248  sudo gedit /etc/environment
+  249  android
+  250  cd Desktop/aps
+  251  ls
+  252  sudo cordova build --release android
+  253  ionic run android --prod --release
+  254  sudo ionic run android --prod --release
+  255  sudo cordova build --release android
+  256  cd /home/artem/Desktop/new/myApp/platforms/android
+  257  sudo nano release-signing.properties
+  258  sudo ionic build --release android
+  259  cd ..
+  260  sudo ionic build --release android
+  261  suto apt-get whois
+  262  sudo apt-get whois
+  263  cd Desktop/ionic
+  264  ls
+  265  cd Myapp
+  266  cd myApp
+  267  sudo cordova build --release android
+  268  sudo add plafrom android
+  269  sudo add plafroms android
+  270  sudo add platfroms android
+  271  sudo add platfrom android
+  272  sudo cordova build --release android
+  273  ../
+  274  ..
+  275  cd Desktop
+  276  /..
+  277  ../
+  278  cd
+  279  cd Desktop
+  280  mkdir 3dprint
+  281  cd 3dprint
+  282  ionic start myApp blank --v2
+  283  npm install -g cordova
+  284  sudo npm install -g cordova
+  285  cd
+  286  cd Desktop/ionic/myApp
+  287  ls
+  288  sudo cordova build --release android
+  289  cd
+  290  cd Desktop
+  291  mkdir new
+  292  cd new
+  293  ionic start myApp blank --v2
+  294  ionic serve
+  295  cd myApp
+  296  ionic serve
+  297  sudo vi /etc/profile
+  298  sudo vim /etc/profile
+  299  sudo nano /etc/profile
+  300  sudo apt-get install alacarte
+  301  cd Download
+  302  cd Downloads
+  303  chmod a+x ./genymotion-2.3.1_x86.bin
+  304  chmod a+x ./genymotion-2.8.1_x64.bin
+  305  ./genymotion-2.8.1_x64.bin
+  306  genymotion
+  307  adb
+  308  android
+  309  cd Desktop
+  310  ls
+  311  cd new
+  312  ls
+  313  cd myApp
+  314  ls
+  315  sudo ionic serve
+  316  sudo cordova plugin rm cordova-plugin-console
+  317  sudo cordova build --release android
+  318  cd /home/artem/Desktop/ionic/myApp
+  319  ionic serve
+  320  sudo ionic serve
+  321  cd Desktop
+  322  mkdir publish
+  323  ionic start myApp sidemenu --v2
+  324  cd publish
+  325  ionic start myApp sidemenu --v2
+  326  ls
+  327  cd myApp
+  328  ionic serve
+  329  sudo -i
+  330  ionic serve
+  331  bower install --save ion-gallery
+  332  sudo bower install --save ion-gallery
+  333  history
+  334  sudo i
+  335  sudo -i
+  336  cd /home/artem/Desktop/publish/myApp/platforms/android/build/outputs/apk
+  337  sudo copy android-release-unsigned.apk /home/artem/Desktop/publish/myApp/
+  338  sudo apt-get copy
+  339  cp
+  340  cp--help
+  341  cp --help
+  342  cp android-release-unsigned.apk /home/artem/Desktop/publish/myApp/android-release-unsigned.apk
+  343  sudo cp android-release-unsigned.apk /home/artem/Desktop/publish/myApp/android-release-unsigned.apk
+  344  ionic serve
+  345  cordova build --release android
+  346  sudo cordova build --release android
+  347  sudo cp android-release-unsigned.apk /home/artem/Desktop/publish/myApp/android-release-unsigned.apk
+  348  sudo cp android-release-unsigned.apk /home/artem/Desktop/publish/myApp/
+  349  sudo cp android-release-unsigned.apk /home/artem/Desktop/publish/myApp
+  350  cd /home/artem/Desktop/publish/myApp/platforms/android/build/outputs/apk
+  351  sudo cp android-release-unsigned.apk /home/artem/Desktop/publish/myApp
+  352  cd ...
+  353  cd ..
+  354  cd.. 
+  355  cd ..
+  356  zipalign -v 4 android-release-unsigned.apk android6.apk
+  357  ionic start devdactic-galleryZoom blank
+  358  cd devdactic-galleryZoom
+  359  atom .
+  360  sudo ionic serve
+  361  sudo apt-get gksu
+  362  gksu nautilus /home/artem/Desktop/publish/myApp
+  363  sudo apt install gksu
+  364  gksu nautilus /home/artem/Desktop/publish/myApp
+  365  ionic serve
+  366  sudo ionic serve
+  367  sudo su
+  368  cd myApp
+  369  sudo ionic serve
+  370  sudo si
+  371  sudo su
+  372  sudo npm install -g cordova
+  373  sudo ionic serve
+  374  ls
+  375  cd ..
+  376  cp /home/artem/Desktop/publish/myApp /home/artem/Desktop/p2
+  377  cd desktop
+  378  cd Desktop
+  379  cd devdactic-galleryZoom
+  380  ionice serve
+  381  ionic serve
+  382  s
+  383  ls
+  384  sudo ionic serve
+  385  history
+  386  cd ..
+  387  history > print.txt
+  388  sudo -i
+  389  gksu nautilus /home/artem/Desktop/publish/myApp
+  390  gksu nautilus /home/artem/Desktop/publish/myApp
+  391  gksu nautilux
+  392  gksu nautilux /home/artem/Desktop/p2
+  393  ./studio.sh
+  394  chmod a+x ./genymotion-2.3.1_x86.bin
+  395  ls
+  396  chmod a+x genymotion-2.8.1_x64.bin
+  397  ls
+  398  chmod a+x ./genymotion-2.8.1_x64.bin
+  399  ./genymotion-2.3.1_x86.bin
+  400  ./genymotion-2.8.1_x64.bin
+  401  cd Desktop
+  402  cd gallery
+  403  ionic start devdactic-galleryZoom blank
+  404  sudo ionic start devdactic-galleryZoom blank
+  405  ls
+  406  cd /home/artem/Desktop/gallery/devdactic-galleryZoom
+  407  sudo ionic serve
+  408  gksu nautilus /home/artem/Desktop/gallery/devdactic-galleryZoom/
+  409  cd ..
+  410  sudo ionic serve
+  411  gksu nautilux /home/artem/Desktop/gallery/devdactic-galleryZoom/www/img
+  412  gksu nautilux /home/artem/Desktop/gallery
+  413  gksu nautilux /home/artem/Desktop/gallery/
+  414  gksu nautilus /home/artem/Desktop/publish/myApp/www
+  415  android
+  416  java
+  417  history
+  418  sudo apt-get ssh
+  419  apt-get whois
+  420  ionic upload
+  421  sudo ionic upload
+  422  sudo mkdir
+  423  sudo mkdir 11111
+  424  ls
+  425  cd ..
+  426  ls
+  427  sudo mkdir 11111
+  428  mkdir 121112
+  429  history
+  430  histor 1.txt
+  431  history 1.txt
+  432  history 1.txt ?H
+  433  history help
+  434  history -- help
+  435  history --help
+  436  history 1.txt -ps
+  437  history -anrw 1.txt 
+  438  history -n 1.txt 
+  439  history -n 1.txt /home/artem/Desktop/gallery
+  440  history 1.txt /home/artem/Desktop/gallery
+  441  history > 1.txt 
+  442  sudo apt-get ssh
+  443  sudo apt-get install ssh
+  444  ssh
+  445  sudo apt-get install apache2
+  446  cp 1.txt  /home/artem/Desktop/p2
+  447  cd p2
+  448  ls
+  449  print 1.txt
+  450  vi  1.txt
+  451  ls
+  452  cd Desktop
+  453  ls
+  454  mkir new
+  455  mkdir new
+  456  help?
+  457  android help
+  458  help --
+  459  dir new
+  460  ls
+  461  dir my
+  462  cd Desktop
+  463  ls
+  464  cd publish
+  465  cd myApp
+  466  sudo ionic serve
+  467  sudo add-apt-repository ppa:umang/indicator-stickynotes
+  468  sudo apt-get update
+  469  sudo apt-get install indicator-stickynotes
+  470  sudo apt remove openjdk*
+  471  sudo add-apt-repository ppa:webupd8team/java
+  472  sudo apt-get update
+  473  sudo apt-get install java-common oracle-java8-installer
+  474  sudo apt-get install oracle-java8-set-default
+  475  source /etc/profile
+  476  wget https://download-cf.jetbrains.com/webide/PhpStorm-2016.1.2.tar.gz
+  477  ls
+  478  tar xvf PhpStorm-2016.1.2.tar.gz
+  479  sudo mv PhpStorm-145.1616.3/ /opt/phpstorm/
+  480  sudo ln -s /opt/phpstorm/bin/phpstorm.sh /usr/local/bin/phpstorm
+  481  phpstorm
+  482  history
+  483  gksu nautilus /home/artem/Desktop/publish/myApp/www/img
+  484  gksu nautilus /home/artem/Desktop/gallery/devdactic-galleryZoom/www/img
+  485  sudo chown -R $USER: $HOME
+  486  history
+  487  sudo ionic serve
+  488  sudu ionic upload
+  489  sudo ionic upload
+  490  cd Desktop
+  491  ls
+  492  cd gallery
+  493  ls
+  494  cd /home/artem/Desktop/gallery/devdactic-galleryZoom
+  495  sudo ionic serve
+  496  ionic serve
+  497  ionic plugin add cordova-plugin-screen-orientation
+  498  sudo ionic plugin add cordova-plugin-screen-orientation
+  499  git
+  500  sudo apt install git
+  501  sudo ionic plugin add cordova-plugin-screen-orientation
+  502  sudo su
+  503  history
+  504  sudo chown -R $USER: $HOME
+  505  cd Desktop
+  506  mkdir 3dprint
+  507  sudo ionic start myApp blank --v2
+  508  sudo ionic serve
+  509  cd 3dprint
+  510  ls
+  511  cd ...
+  512  cd ..
+  513  cd myApp
+  514  sudo ionic serve
+  515  sudo ionic start myApp blank --v2
+  516  sudo ionic serve
+  517  cd myApp
+  518  sudo ionic serve
+  519  sudo 1
+  520  1
+  521  2
+  522  3
+  523  4
+  524  sudo ionic start IonicProject blank
+  525  sudo adduser artem sudo
+  526  history
+  527  gksu nautilus /home/artem/Desktop/test/IonicProject
+  528  ionic serve
+  529  ionic serveionic serve
+  530  ionic serve
+  531  sudo su
+  532  cd Desktop
+  533  gksudo nautilus /home/artem/Desktop/ready/myApp
+  534  ionic serve
+  535  cd ..
+  536  ionic serve
+  537  <body ng-app="starter">
+  538  <ion-pane>
+  539  </ion-pane>
+  540  </body>
+  541  </html>
+  542  bower install --save ion-gallery
+  543  bower install --save ion-gallery allow-root
+  544  bower install allow-root
+  545  bower install allow-root option
+  546  bower --v
+  547  bower install --save ion-gallery allow-root
+  548  bower install --save ion-gallery allow-root option
+  549  sudo su
+  550  ionic serve
+  551  bower install --save ion-gallery
+  552  sudo bower install --save ion-gallery
+  553  bower install --save ion-gallery --allow-root option
+  554  sudo install ion-gallery plugin
+  555  bower  install ion-gallery plugin
+  556  start Ionicimageslider blank
+  557  ionic start Ionicimageslider blank
+  558  bower install --save ion-gallery
+  559  bower init
+  560  bower install --save ion-gallery
+  561  bower install --save ion-gallery allow-root option
+  562  cd ..
+  563  bower install ionic-ratings --save
+  564  ionic serve
+  565  npm install -g ionic@beta
+  566  sudo npm install -g ionic@beta
+  567  ls
+  568  git clone https://github.com/ccoenraets/ionic2-realty
+  569  cd ionic2-realty
+  570  npm install
+  571  ionic serve
+  572  ls
+  573  sudo ionic serve
+  574  ionic serve
+  575  bower install ion-gallery plugin
+  576  install ion-gallery plugin
+  577  bower install --save ion-gallery plugin
+  578  bower install ion-gallery plugin
+  579  ionic serve
+  580  ionic serve
+  581  npm install -g ionic]
+  582  ionic serve
+  583  npm install -g ionic
+  584  sudo npm install
+  585  node server
+  586  sudo node server
+  587  sudo node server
+  588  sudo npm insta;;
+  589  sudo npm install
+  590  npm install -g ionic
+  591  sudo npm install -g ionic
+  592  ionic serve
+  593  ionic upload
+  594  ionic serve
+  595  npm install -g npm
+  596  sudo npm install -g npm
+  597  sudo npm install -g cordova
+  598  sudo npm install -g ionic
+  599  ls
+  600  git clone https://github.com/dreamhouseapp/dreamhouse-mobile-ionic
+  601  cd dreamhouse-mobile-ionic
+  602  npm install
+  603  cd..
+  604  ls
+  605  cd ..
+  606  cd Desktop
+  607  git clone https://github.com/dreamhouseapp/dreamhouse-mobile-ionic
+  608  cd dreamhouse-mobile-ionic
+  609  sudo npm install
+  610  ionic serve
+  611  cd Desktop
+  612  git clone https://github.com/dreamhouseapp/dreamhouse-rest-services
+  613  cd dreamhouse-rest-services
+  614  npm install
+  615  sudo npm install
+  616  node server
+  617  sudo node server
+  618  ionic serve
+  619  ls
+  620  server
+  621  node js
+  622  ionic serve
+  623  ionic upload
+  624  sudo ionic upload
+  625  export JAVA_HOME=/usr/lib/jvm/java-7-openjdk
+  626  ionic serve
+  627  sudo ionic upload
+  628  ionic upload
+  629  ionic serve
+  630  ionic upload
+  631  ionic serve
+  632  ionic upload
+  633  sudo cordova build --release android
+  634  sudo cordova platform add android
+  635  sudo cordova build --release android
+  636  sudo apt-get install openjdk-8-jre
+  637  sudo cordova build --release android
+  638  sudo apt-get install openjdk-6-jdk
+  639  sudo apt-get install openjdk-7-jdk
+  640  sudo cordova build --release android
+  641  export JAVA_HOME=$(/usr/libexec/java_home)
+  642  sudo apt-get install openjdk-6-jdk
+  643  sudo add-apt-repository ppa:webupd8team/java
+  644  sudo apt-get update
+  645  sudo apt-get install openjdk-6-jdk
+  646  sudo apt-get install openjdk
+  647  sudo add-apt-repository ppa:openjdk-r/ppa  
+  648  sudo apt-get update  
+  649  sudo apt-get install openjdk-7-jdk 
+  650  sudo cordova build --release android
+  651  sudo apt-get install oracle-java8-installer
+  652  install oracle-java9-installer
+  653  sudo apt-get install openjdk-7-jdk
+  654  javac -version
+  655  cd dreamhouse-mobile-ionic
+  656  sudo cordova build --release android
+  657  ionic serve
+  658  sudo cordova build --release android
+  659  ionic info
+  660  cordova platform ls
+  661  sudo apt-get install default-jdk
+  662  sudo cordova build --release android
+  663  sudo keytool -genkey -v -keystore my-release-key.keystore -alias first -keyalg RSA -keysize 2048 -validity 10000
+  664  sudo cordova build --release android
+  665  zipalign -v 4 android-release-unsigned.apk android.apk
+  666  sudo cordova build --release android
+  667  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore android-release-unsigned.apk first
+  668  ionic serve
+  669  ionic state reset command
+  670  PACKAGE_NAME
+  671  cordova plagin list
+  672  cordova plugin list
+  673  ionic state reset android
+  674  history
+  675  gksu nautilux /home/artem/Desktop/dreamhouse-mobile-ionic
+  676  gksu nautilux /home/artem/Desktop
+  677  ionuc serve
+  678  ionic serve
+  679  gksu nautilux /home/art /home/artem/Desktop/dreamhouse-mobile-ionic/platforms/android
+  680  history
+  681  file:///home/artem/Desktop/dreamhouse-mobile-ionic/homeartemdesktopdreamhousemobileionic file:///home/artem/Desktop/dreamhouse-mobile-ionic/node_modules file:///home/artem/Desktop/dreamhouse-mobile-ionic/platforms file:///home/artem/Desktop/dreamhouse-mobile-ionic/plugins 
+  682  sudo chown -R $USER: $HOME
+  683  sudo ionic serve
+  684  help
+  685  cd Desktop
+  686  md dbdream
+  687  mkdir dbdream
+  688  cd dbdream/
+  689  git clone https://github.com/dreamhouseapp/dreamhouse-web-app.git
+  690  echo 'if $1 in postgresql-9.3|slony1-2 then exit 101 else exit 0' > /usr/sbin/policy-rc.d
+  691  sudo echo 'if $1 in postgresql-9.3|slony1-2 then exit 101 else exit 0' > /usr/sbin/policy-rc.d
+  692  echo 'if $1 in postgresql-9.3|slony1-2 then exit 101 else exit 0' > /usr/sbin/policy-rc.d
+  693  postgres
+  694  sudo apt-get install postgresql
+  695  top
+  696  reboot
+  697  sudo apt-get install postgresql
+  698  postgres
+  699  postgresql
+  700  sudo gedit /etc/postgresql/9.5/main 
+  701  sudo gedit 
+  702  sudo -u postgres psql
+  703  cd Desktop
+  704  cd dbdream/
+  705  cd dreamhouse-web-app/
+  706  gulp serve
+  707  sudo gulp serve
+  708  sudo -i -u postgres
+  709  sudo -u postgres psql
+  710  sudo service postgresql restart
+  711  sudo -i -u postgres
+  712  sudo -u postgres psql
+  713  cd Desktop/
+  714  cd dbdream/
+  715  cd dreamhouse-web-app/
+  716  sudo gulp serve
+  717  cd Desktop/
+  718  mkdir mobile3dprint
+  719  cd 
+  720  cd Desktop
+  721  cd mobile3dprint/
+  722  git clone https://github.com/dreamhouseapp/dreamhouse-mobile-app.git
+  723  cd dreamhouse-mobile-app/
+  724  ionic serve
+  725  sudo ionic serve
+  726  sudo npm install
+  727  sudo ionic serve
+  728  sudo gulp serve
+  729  history
+  730  sudo service postgresql start
+  731  sudo -u postgres psql
+  732  sudo -i -u postgres
+  733  df -h
+  734  sudo -u postgres psql
+  735  sudo -u postgres
+  736  reboot
+  737  sudo gulp serve
+  738  cordova build --release android
+  739  sudo cordova platform add android
+  740  sudo cordova build --release android
+  741  wget -qO- https://cli-assets.heroku.com/install-ubuntu.sh | sh
+  742  heroku login
+  743  sudo wget -qO- https://cli-assets.heroku.com/install-ubuntu.sh | sh
+  744  sudo gulp serve
+  745  heroku plugins:install heroku-slugs
+  746  wget -qO- https://cli-assets.heroku.com/install-ubuntu.sh | sh
+  747  heroku
+  748  Heroku login
+  749  sudo npm install -g heroku-cli
+  750  Heroku login
+  751  heroku login
+  752  curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
+  753  sudo apt-get install -y nodejs
+  754  var cash
+  755  sudo apt-get clean
+  756  sudo apt-get install -y nodejs
+  757  heroku login
+  758  sudo apt-get install -y nodejs
+  759  curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
+  760  sudo apt-get install -y nodejs
+  761  heroku login
+  762  curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
+  763  sudo apt-get install -y nodejs
+  764  curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
+  765  heroku login
+  766  node js -v
+  767  curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
+  768  node -v
+  769  curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+  770  sudo apt-get update
+  771  sudo add-apt-repository ppa:tualatrix/ppa
+  772  sudo apt-get update
+  773  sudo apt-get install ubuntu-tweak
+  774  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
+  775  wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
+  776  ubuntu-tweak
+  777  apt-get cleaner
+  778  apt-get clean
+  779  sudo apt-get clean
+  780  sudo apt-get clean --purge
+  781  ubuntu-tweak 
+  782  sudo apt-get install -y nodejs
+  783  wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
+  784  cd /home/artem/aps1/app/aps1/node-js-getting-started
+  785  sudu ionin serve
+  786  sudo ionin serve
+  787  sudo ionic serve
+  788  export NVM_DIR="$HOME/.nvm"
+  789  [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" # This loads nvm
+  790  export NVM_DIR="$HOME/.nvm"
+  791  heroki
+  792  heroku
+  793  nanp
+  794  nano
+  795  nano install_nvm.sh
+  796  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
+  797  nvm
+  798  nvm ls-remote
+  799  nvm install 8.2.1
+  800  heroku login
+  801  dir
+  802  heroku slugs:download -a aps1
+  803  heroku plugins:install heroku-slugs
+  804  heroku slugs:download -a aps1
+  805  ls
+  806  cd aps1/
+  807  ls
+  808  cd app
+  809  ls
+  810  cd aps1
+  811  ls
+  812  git clone https://github.com/heroku/node-js-getting-started.git
+  813  cd node-js-getting-started
+  814  ls
+  815  git init
+  816  sudo git init
+  817  git commit -m "first commit"
+  818  git remote add origin https://github.com/artegor/3dprint.git
+  819  git push -u origin master
+  820  sudo git push -u origin master
+  821  git remote add origin https://github.com/artegor/3dprint.git
+  822  git push -u origin master
+  823  ll
+  824  git ad.
+  825  git add.
+  826  git add .
+  827  git commin -m 'ifiif'
+  828  git commit -m 'ifiif'
+  829  last
+  830  ssh -keygen
+  831  ssh-keygen
+  832  cat ~/.ssh/id_rsa.pub
+  833  git remote add origin https://github.com/artegor/3dprint.git
+  834  git push origin HEAD
+  835  git remote add origin git@github.com:artegor/3dprint.git
+  836  git push -u origin master
+  837  git push -u origin HEAD
+  838  git init
+  839  git add README.md
+  840  git commit -m "first commit"
+  841  git remote add origin git@github.com:artegor/3dprint.git
+  842  git push -u origin master
+  843  sudo ionic serve
+  844  cd Desktop
+  845  mkdir mapjs
+  846  cd mapjs/
+  847  ionic start myMapDemo https://github.com/calendee/ionic-leafletjs-map-demo
+  848  cd myMapDemo
+  849  ionic serve
+  850  sudo apt-get install git-core
+  851  which git
+  852  git config --global user.name "artem"
+  853  git config --global user.email "artemtarasov@list.ru"
+  854  cd Desktop
+  855  cd dbdream/
+  856  cd dreamhouse-web-app/
+  857  git init
+  858  git remote add origin https://media_minestry@bitbucket.org/media_minestry/3dprint.git
+  859  git push -u origin --all
+  860  cd DEsktop
+  861  cd Desktop
+  862  ls
+  863  cd mapjs/
+  864  git init
+  865  git add README.md
+  866  git commit -m "first commit"
+  867  cd myMapDemo/
+  868  git remote add origin git@github.com:artegor/3dprint.git
+  869  git push -u origin master
+  870  echo "# 3dprint" >> README.md
+  871  git init
+  872  git add README.md
+  873  git commit -m "first commit"
+  874  git remote add origin git@github.com:artegor/3dprint.git
+  875  git push -u origin master
+  876  git remote add origin git@github.com:artegor/3dprint.git
+  877  git push -u origin master
+  878  git init
+  879  sudo gulp serve
+  880  git init
+  881  git add .
+  882  git commit -m "First commit"
+  883  git remote add origin git@github.com:artegor/3dprint.git
+  884  git remote rm origin
+  885  git remote add origin git@github.com:artegor/3dprint.git
+  886  git remote -v
+  887  git push origin master
+  888  git pull
+  889  git push origin master
+  890  git pull origin master
+  891  git push origin master
+  892  git push origin my-current-local-branch
+  893  git rebase
+  894  git pull --rebase git@github.com:artegor/3dprint.git
+  895  git push origin master
+  896  gecho "# 21" >> README.md
+  897  git init
+  898  git add README.md
+  899  git commit -m "first commit"
+  900  git remote add origin git@github.com:artegor/21.git
+  901  git push -u origin master
+  902  git push -f
+  903  git co master
+  904  git co develop
+  905  sudo gulp serve
+  906  sudo npm install
+  907  sudo gulp serve
+  908  gulp serve
+  909  sudo gulp serve
+  910  sudo gulp serve
+  911  npm rm --global gulp
+  912  sudo npm rm --global gulp
+  913  node --version
+  914  npm --version
+  915  npm install --global gulp-cli
+  916  npm init
+  917  npm install --save-dev gulp
+  918  sudo npm install --save-dev gulp
+  919  gulp
+  920  sudo npm install
+  921  gulp
+  922  gulp serve
+  923  npm ls node-sass
+  924  npm rebuild node-sass
+  925  gulp
+  926  history >1.txt
